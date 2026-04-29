@@ -17,3 +17,22 @@
 # icon
 
 
+<img width="128" height="128" alt="fi_fooddrink_cakewithcandle" src="https://github.com/user-attachments/assets/a8ea08d0-9740-48cb-bd22-fab8ec2294cb" />
+<img width="128" height="128" alt="fi_fooddrink_cakethreecandles" src="https://github.com/user-attachments/assets/5ec63918-c450-435b-b3f1-bb808de41126" />
+<img width="128" height="128" alt="fi_fooddrink_cakeribbon" src="https://github.com/user-attachments/assets/3c77a07c-3e8e-4f26-9d8f-4dc27c98aead" />
+<img width="128" height="128" alt="fi_fooddrink_babybottle" src="https://github.com/user-attachments/assets/4c800e4f-7330-4daf-9315-3d3f62cecaf3" />
+<img width="128" height="128" alt="fi_animalnature_water" src="https://github.com/user-attachments/assets/23eaff01-1570-4ea0-a0f4-e9fb19810830" />
+<img width="128" height="128" alt="fi_animalnature_star" src="https://github.com/user-attachments/assets/12f4cf9f-53dc-4e43-98cf-8f8945dd9cad" />
+<img width="128" height="128" alt="fi_animalnature_sprout" src="https://github.com/user-attachments/assets/285f9326-77bd-4952-bffa-723856c0b8ef" />
+<img width="128" height="128" alt="fi_animalnature_sparkle" src="https://github.com/user-attachments/assets/a88fb4f5-9cd9-4854-9459-ee0977e3f815" />
+<img width="128" height="128" alt="fi_animalnature_rose" src="https://github.com/user-attachments/assets/42ba045b-2c27-4026-96aa-d02673206681" />
+<img width="128" height="128" alt="fi_animalnature_puppy" src="https://github.com/user-attachments/assets/ecee50f5-917e-4474-9b1f-0d076e0a8fce" />
+<img width="128" height="128" alt="fi_animalnature_fire" src="https://github.com/user-attachments/assets/11989f0f-90b0-4752-8846-d46a9d1669c7" />
+<img width="128" height="128" alt="fi_animalnature_dog" src="https://github.com/user-attachments/assets/4516f400-a86f-4341-82ec-3d82c882fd5b" />
+<img width="128" height="128" alt="fi_animalnature_clover" src="https://github.com/user-attachments/assets/232f0445-a3c5-4ef7-ad08-8a563a124789" />
+<img width="128" height="128" alt="fi_animalnature_christmastree" src="https://github.com/user-attachments/assets/ca1fc967-5954-48b4-b213-e1e1088503fd" />
+<img width="128" height="128" alt="fi_animalnature_catgrey" src="https://github.com/user-attachments/assets/6e0c26a4-1372-448f-aec6-41628eeba2ee" />
+<img width="128" height="128" alt="fi_animalnature_catbrown" src="https://github.com/user-attachments/assets/35c5f0ea-352a-43be-97f6-f94edf157f8f" />
+<img width="128" height="128" alt="fi_animalnature_bouquetgreen" src="https://github.com/user-attachments/assets/6300b03b-77c1-43be-bd91-4c9998364f9d" />
+<img width="128" height="128" alt="fi_animalnature_bouquet" src="https://github.com/user-attachments/assets/4f84b9b2-5b1c-42bb-a9b3-d8bb63a734ef" />
+<img width="128" height="128" alt="fi_animalnature_bear" src="https://github.com/user-attachments/assets/eba1f3c7-3734-4929-b030-289c9f0b5b69" />
