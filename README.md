@@ -97,7 +97,33 @@
 <img width="128" height="128" alt="fi_heartsymbol_whiteheart" src="https://github.com/user-attachments/assets/95813389-28ec-4803-8074-46f980ca5acc" />
 <img width="128" height="128" alt="fi_heartsymbol_twoheartred" src="https://github.com/user-attachments/assets/42e3d898-93ed-4417-9904-4b406989c400" />
 
+<img width="128" height="128" alt="fi_smileyspeople_smile" src="https://github.com/user-attachments/assets/10def822-955c-4743-9993-30ce2be9b8e7" />
+<img width="128" height="128" alt="fi_smileyspeople_hearteyes" src="https://github.com/user-attachments/assets/6be04ff4-0faa-4069-b154-7619ef964e73" />
+<img width="128" height="128" alt="fi_smileyspeople_cry" src="https://github.com/user-attachments/assets/dc56fcd2-9786-475b-a72f-800dcd89e1f6" />
+<img width="128" height="128" alt="fi_smileyspeople_blowingkiss" src="https://github.com/user-attachments/assets/98794209-6779-4d65-924f-b6c0331fbc64" />
+<img width="128" height="128" alt="fi_smileyspeople_babyswaddlesleeping" src="https://github.com/user-attachments/assets/e8d24c1d-b071-4597-a743-160925f3bf22" />
+<img width="128" height="128" alt="fi_objects_wrappedgift" src="https://github.com/user-attachments/assets/bd2fe7fa-d4da-435e-96bf-129e967af58f" />
+<img width="128" height="128" alt="fi_objects_weighingmachine" src="https://github.com/user-attachments/assets/323954e7-0bda-4cc0-94de-6edbda62628c" />
+<img width="128" height="128" alt="fi_objects_vacationcalendar" src="https://github.com/user-attachments/assets/d62a7d49-a297-4677-8cad-18120af97662" />
+<img width="128" height="128" alt="fi_objects_testscore100" src="https://github.com/user-attachments/assets/ae8d1678-5555-412f-9afb-587b27781f47" />
+<img width="128" height="128" alt="fi_objects_testpaper" src="https://github.com/user-attachments/assets/7fcd0316-6b3d-4d4b-af89-20bd817cb48b" />
+<img width="128" height="128" alt="fi_objects_syringe" src="https://github.com/user-attachments/assets/5b75f52b-3bd5-4837-a578-4245e2f10a34" />
+<img width="128" height="128" alt="fi_objects_shoppingcart" src="https://github.com/user-attachments/assets/b9aa87cb-a96a-4790-b2d8-4b3f38cbd25f" />
+<img width="128" height="128" alt="fi_objects_ring" src="https://github.com/user-attachments/assets/401b7fdc-f2cf-4ca9-b3a1-278339a7a47c" />
+<img width="128" height="128" alt="fi_objects_pencilred" src="https://github.com/user-attachments/assets/cadcef07-2704-4f0e-ad83-6b29eced37e9" />
+<img width="128" height="128" alt="fi_objects_pencilblue" src="https://github.com/user-attachments/assets/8d1f7402-3780-4360-abcf-48a48d13691e" />
+<img width="128" height="128" alt="fi_objects_peakedhat" src="https://github.com/user-attachments/assets/1a6dd3eb-1539-4b55-91fe-31abff05661b" />
+<img width="128" height="128" alt="fi_objects_passport" src="https://github.com/user-attachments/assets/4fbd403b-ff03-4c7c-be14-e33d8bb07f79" />
+<img width="128" height="128" alt="fi_objects_partypopper" src="https://github.com/user-attachments/assets/e90f78a3-2619-40c4-b362-b47dd7bc3ac9" />
+<img width="128" height="128" alt="fi_objects_partyhatyellow" src="https://github.com/user-attachments/assets/8d604cfb-93c6-43ab-8a90-5ec920408a07" />
+<img width="128" height="128" alt="fi_objects_partyhatblue" src="https://github.com/user-attachments/assets/137c6d24-c4df-422b-8ce9-aeca44286b82" />
+<img width="128" height="128" alt="fi_objects_outingcalendar" src="https://github.com/user-attachments/assets/60c25e8d-bac3-494a-82e1-328fd807c5e3" />
 
+
+
+<img width="128" height="128" alt="fi_travelplaces_airplanetop" src="https://github.com/user-attachments/assets/634ec916-880c-48b6-8f3b-ac38e5418b8a" />
+<img width="128" height="128" alt="fi_travelplaces_airplane" src="https://github.com/user-attachments/assets/2721982c-1537-4d42-a06b-0e36642e8c4a" />
+<img width="128" height="128" alt="fi_smileyspeople_smilewithheart" src="https://github.com/user-attachments/assets/6e5e0485-1c20-4a0c-8934-537a08666999" />
 
 
 
